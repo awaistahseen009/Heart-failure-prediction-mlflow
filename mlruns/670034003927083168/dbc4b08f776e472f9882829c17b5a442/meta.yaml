@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Awais/Desktop/Machine_learning_ETEP/Heart-disease-prediction/Heart-failure-prediction/mlruns/670034003927083168/dbc4b08f776e472f9882829c17b5a442/artifacts
+end_time: 1707293310304
+entry_point_name: ''
+experiment_id: '670034003927083168'
+lifecycle_stage: active
+run_id: dbc4b08f776e472f9882829c17b5a442
+run_name: rare-bug-456
+run_uuid: dbc4b08f776e472f9882829c17b5a442
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707293304713
+status: 3
+tags: []
+user_id: Awais
